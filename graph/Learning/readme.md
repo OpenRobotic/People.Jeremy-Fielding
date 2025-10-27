@@ -1,0 +1,1 @@
+- [How To Learn Any New Skill Fast. Jeremy Fielding 105](https://youtu.be/DPbKux9cemU)

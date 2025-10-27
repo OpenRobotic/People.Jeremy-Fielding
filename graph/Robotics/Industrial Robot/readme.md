@@ -1,2 +1,0 @@
-- [How I Designed My Robot To Be Fast! Engineering Speed at a Lower Cost #092](https://youtu.be/T3fl1FIKEQo)
-- [How I Weld and Machine Aluminum Parts Like This from Start to Finish. #090](https://youtu.be/KqP9IFcGQZQ)

@@ -1,0 +1,5 @@
+- [How I Designed My Robot To Be Fast! Engineering Speed at a Lower Cost #092](https://youtu.be/T3fl1FIKEQo)
+- [How I Weld and Machine Aluminum Parts Like This from Start to Finish. #090](https://youtu.be/KqP9IFcGQZQ)
+- [Industrial Robot Built from Scratch. Jarvis 2.0, The Full Build : Jeremy Fielding 104](https://youtu.be/XasThxf_YGo)
+- [Making The Robot Base and Foundation: Mistakes Were Made! #091](https://youtu.be/WNNjzh4hr5w)
+- [How I Designed and Built A Forearm For My Shop-made Industrial Robot: #095](https://youtu.be/Dv4K3fXoYwA)

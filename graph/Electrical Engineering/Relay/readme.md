@@ -1,0 +1,1 @@
+- [A beginners guide to relays, contactors, and solenoids to automate anything; (#083)](https://youtu.be/AvwBcu3e9O4)

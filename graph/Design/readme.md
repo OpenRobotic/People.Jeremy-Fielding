@@ -1,0 +1,1 @@
+- [18 (ish) Mechanical Design Tips and Tricks for Engineers Inventors and Serious Makers: # 093](https://youtu.be/TbWFRvMV3gw)
